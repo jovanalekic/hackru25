@@ -1,0 +1,31 @@
+Frontend: 
+
+Need a client-facing frontend, something like React or Next.js
+
+Backend:
+
+Profiles:
+
+Information we want to collect from user
+
+School Year (Datatype: DateTime - Year)  (Datatype: Int)
+Major (Datatype: String)
+Name (Last name and first name) (Datatype: String)
+Age (Datatype: Int)
+Romantic (red border) vs platonic (yellow border) (Datatype: Boolean)
+Gender (Datatype: Enum Integer)
+Ethnicity (Datatype: Enum Integer)
+Photo (Datatype: File)
+Likes and Interests () ()
+Religion (Datatype: Enum Integer)
+Dislikes
+Political Leaning (Hinge) (Enum INteger)
+What's ur biggest passion? 
+2 truths and a lie
+One thing I'll never do again
+You should not go out with me if...
+One thing I cannot live without is..
+A shower thought I recently had was...
+IF Romatnic THEN (What are you looking for? Short term, casual, long term, etc) (Enum INteger)
+
+Gender preference (Enum Integer)

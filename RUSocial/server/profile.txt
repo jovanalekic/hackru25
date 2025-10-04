@@ -1,0 +1,34 @@
+Profiles:
+
+Information we want to collect from user (for both)
+
+Name (Last name and first name) (Datatype: String)
+School Year (Datatype: DateTime - Year)  (Datatype: Int)
+Major (Datatype: String)
+Age (Datatype: Int)
+Romantic (red border) vs platonic (yellow border) (Datatype: Boolean)
+Gender (Datatype: Enum Integer)
+Ethnicity (Datatype: Enum Integer)
+Photo (Datatype: File)
+Likes and Interests: (Datatype: String)
+Religion (Datatype: Enum Integer)
+Dislikes (Dataype: String)
+Political Leaning (Hinge) (Enum INteger)
+Gender preference (Enum Integer)
+
+
+0. What's ur biggest passion? 
+1. 2 truths and a lie
+2. One thing I'll never do again
+3. One thing I cannot live without is..
+4. A shower thought I recently had was...
+5. Share a meme you like
+
+Romantic only:
+6. What are you looking for?  (Short term, casual, long term, etc) (Enum Integer)
+7. You should not go out with me if...
+
+Platonic only:
+8. What character would you be in a sitcom?
+
+
